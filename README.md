@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](/dark.jpg)
-![](/light.jpg)
+![Darkmode](/dark.jpg)
+![Lightmode](/light.jpg)
 
 ### Links
 
@@ -91,8 +91,3 @@ As self taught developer student I'm looking forward to continue my learning pat
 ## Author
 
 - Github - [Francisco Gonzalez](https://github.com/fdsantos300)
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
