@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](./dark.jpg)
-![](./light.jpg)
+![](/dark.jpg)
+![](/light.jpg)
 
 ### Links
 
