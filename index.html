@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+  <script type="text/javascript" src="script.js" async></script>
+  <title>Password Generator</title>
+</head>
+
+<body>
+
+  <div class="main">
+
+    <div class="container">
+
+      <label for="checkbox" class="switch">
+        <input type="checkbox" class="nightmode" id="checkbox">
+        <span class="slider"></span>
+
+      </label>
+
+      <h1 class="hero-title">Generate a <br><span>random password</span></h1>
+      <h2 class="slogan">Never use an insecure password again.</h2>
+
+      <div class="length-div section">
+        <label class="label-length">Set password length: </label>
+        <input type="number" class="pwd-length" max="15" min="8" value="10">
+      </div>
+
+      <button class="generate-btn" type="button" name="generate-btn" onclick="generatePass()">Generate passwords</button>
+      <hr>
+
+      <div class="pass-div section">
+        <input class="pwd pwd-one" type="text" placeholder="Password 1" value="" readonly>
+        <input class="pwd pwd-two" type="text" placeholder="Password 2" value="" readonly>
+      </div>
+
+    </div>
+
+  </div>
+  </div>
+
+</body>
+
+</html>
