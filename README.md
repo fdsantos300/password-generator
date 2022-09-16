@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fdsantos300.github.io/password-generator/)
+- Live Site URL: [Here](https://fdsantos300.github.io/password-generator/)
 
 ## My process
 
